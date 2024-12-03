@@ -4,7 +4,11 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A transformr based model for a wind turbine problem
+A transformer based model for a wind turbine problem
+
+The following project template was generated using this tool https://cookiecutter-data-science.drivendata.org/
+
+In the notebooks file three seperate notebooks can be found, one for each of the models that were trained. The whole process for training each model can be found in it's relative notebook. The data can be found in the data/raw folder.
 
 ## Project Organization
 
