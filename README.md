@@ -8,7 +8,8 @@ A transformer based model for a wind turbine problem
 
 The following project template was generated using this tool https://cookiecutter-data-science.drivendata.org/
 
-In the notebooks file three seperate notebooks can be found, one for each of the models that were trained. The whole process for training each model can be found in it's relative notebook. The data can be found in the data/raw folder.
+In the notebooks file three seperate notebooks can be found, one for each of the models that were trained. The whole process for training each model can be found in it's relative notebook. 
+The data can be found in the data/raw folder. Because of the file size limits of github the csv files were zipped indivitually so they need to be unzipped before running the code.
 
 ## Project Organization
 
