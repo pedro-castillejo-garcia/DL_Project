@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A transformer based model for a wind turbine problem
+This project consists of a transformer based model for a prediction of torque in wind turbines.
 
 The following project template was generated using this tool https://cookiecutter-data-science.drivendata.org/
 
